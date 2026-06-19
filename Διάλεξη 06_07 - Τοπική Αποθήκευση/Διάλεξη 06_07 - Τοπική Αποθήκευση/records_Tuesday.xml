@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+
+<records>
+    <carBrand>
+        <name>Tomota</name>
+        <models>Kuris,Yanis,Corona</models>
+    </carBrand>
+
+    <carBrand>
+        <name>VR</name>
+        <models>Wolf,Yolo</models>
+    </carBrand>
+
+    <carBrand>
+        <name>Nistan</name>
+    </carBrand>
+
+</records>
