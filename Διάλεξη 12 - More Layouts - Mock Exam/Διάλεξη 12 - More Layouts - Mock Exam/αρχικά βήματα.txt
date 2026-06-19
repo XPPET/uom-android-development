@@ -1,0 +1,10 @@
+Process
+1. Setup XAMPP
+2. Create DB
+3. Install Services
+4. Check Services through Postman or Browser
+5. Design Main Activity XML
+6. Develop Classes based on Available Data
+7. Implement Main Activity Java
+8. Design Second Activity XML 
+9. Implement Second Activity Java
