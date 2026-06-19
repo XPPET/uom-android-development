@@ -36,4 +36,4 @@ By completing these laboratory modules, I have gained hands-on experience in:
 - Persisting user data locally and fetching real-world data using external **REST APIs**.
 
 ---
-*Disclaimer: This repository is intended
+*Disclaimer: This repository is intended for educational purposes and personal portfolio exhibition.*
